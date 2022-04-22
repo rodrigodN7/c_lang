@@ -1,5 +1,5 @@
 /*
- * if_statement.c
+ * secure_programming_goodpractices_1.c
  *
  * Secure programming and keywords
  * Author : Rodrigo Noriega 
